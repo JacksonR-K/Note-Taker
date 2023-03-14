@@ -1,7 +1,8 @@
 # Note-Taker
 
-Deployed App: https://whispering-headland-84727.herokuapp.com/
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Deployed App: https://whispering-headland-84727.herokuapp.com/
 
 ## Description
 
